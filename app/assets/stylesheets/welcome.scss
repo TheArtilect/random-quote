@@ -1,0 +1,72 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+body, #all {
+  background-color: #000;
+}
+
+h1, p {
+  margin-top: 40px;
+  font-family: "Times New Roman";
+  color: white;
+}
+
+.left, .right {
+  text-aling: center;
+  font-size: 40px;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+p {
+  font-size: 15px;
+}
+
+
+.text {
+  display: block;
+  text-align: center;
+}
+
+
+.jumbotron {
+  width: 30%;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  background-color: black;
+  border: 4px solid grey;
+  padding: 10px;
+  border-radius: 10px;
+  height: auto;
+}
+
+.quote, .author {
+  margin-top: 10px;
+  font-family: "Times New Roman";
+  color: black;
+}
+
+
+.quote {
+  font-size: 35px;
+
+}
+
+.author {
+  font-style: italic;
+}
+
+
+
+#newquote, .twitter {
+  margin-top: 10px;
+  font-family: "Times New Roman";
+}
