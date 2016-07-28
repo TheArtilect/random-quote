@@ -4,10 +4,8 @@ function startPage(){
 
 
   function randomQuote() {
-    
-    var quoteQuote = "";
-    var quoteAuthor = "";
-    
+    var quote = "";
+    console.log(quote);
     var quotesHash = {
       0: ['Crush your enemies, see them driven before you and hear the lamentation of their women', 'Conan, The Barbarian'],
       1: ['Curiosity killed the cat, but for awhile, I was a suspect.', 'Steven Wright'],
@@ -35,14 +33,21 @@ function startPage(){
     };
     
     var randomNum = Math.floor((Math.random() * (Object.keys(quotesHash).length)));
-    quoteQuote = quotesHash[randomNum][0];
-    quoteAuthor = quotesHash[randomNum][1];
+
+    var quoteQuote = quotesHash[randomNum][0];
+    var quoteAuthor = quotesHash[randomNum][1];
+    quote = '"' + quoteQuote + '"' + ' - ' + quoteAuthor;
   
     $(".quote").text(quoteQuote);
     $(".author").text(quoteAuthor);
-    if ((quoteQuote.length + quoteAuthor.length) <= 150){
-       $('.tweet').attr('href', 'https://twitter.com/intent/tweet/?text=' + '"' + quoteQuote + '"' + ' - ' + quoteAuthor);
-    };
+    
+    
+    if (quote.length <= 150){
+       $("#twitter").show();
+       $('.tweet').attr('href', 'https://twitter.com/intent/tweet/?text=' + quote);
+    } else {
+      $("#twitter").css("display", "none");
+    }
    
   };
     

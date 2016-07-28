@@ -1,7 +1,8 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-
+@import "bootstrap-sprockets";
+@import "bootstrap";
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
@@ -16,7 +17,8 @@ h1, p {
 }
 
 .left, .right {
-  text-aling: center;
+  display: inherit;
+  text-align: center;
   font-size: 40px;
 }
 
@@ -29,9 +31,10 @@ p {
 }
 
 
+
 .text {
-  display: block;
-  text-align: center;
+  display: inline;
+  text-align: middle;
 }
 
 
@@ -46,12 +49,14 @@ p {
   padding: 10px;
   border-radius: 10px;
   height: auto;
+  background-color: white;
 }
 
 .quote, .author {
   margin-top: 10px;
   font-family: "Times New Roman";
   color: black;
+  display: inherit;
 }
 
 
