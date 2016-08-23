@@ -29,11 +29,16 @@ p {
   font-size: 15px;
 }
 
-
+.quotebox {
+  text-align: center;
+  width: 100%;
+}
 
 .text {
   display: inline;
-  text-align: middle;
+  text-align: center;
+  padding-left: 1vw;
+  padding-right: 1vw;
 }
 
 
@@ -45,7 +50,6 @@ p {
   display: flex;
   background-color: black;
   border: 4px solid grey;
-  padding: 10px;
   border-radius: 10px;
   height: auto;
   background-color: white;
