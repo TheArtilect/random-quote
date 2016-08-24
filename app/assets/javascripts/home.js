@@ -81,7 +81,8 @@ function startPage(){
       72: ["Let me understand, you got the hen, the chicken and the rooster. The rooster goes with the chicken. So, who's having sex with the hen?", "Frank Costanza"],
       73: ["People make life so much worse than it has to be.", "Larry David"],
       74: ["A date is an experience you have with another person that makes you appreciate being alone.", "Larry David"],
-      75: ["Welcome, newcomers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it!", "Frank Costanza"]
+      75: ["Welcome, newcomers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it!", "Frank Costanza"],
+      76: ["It's like those hip musicains and their complicated shoes.", "George Costanza"]
       
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
     };
