@@ -18,7 +18,11 @@ function startPage(){
       9: ["Me fail english?  That's unpossible.", "Ralph Wiggum"],
       10: ["When she sees you'll do anything she says, she's bound to respect you.", "Milhouse von Houten"],
       11: ["Just because I don't care doesn't mean I don't understand.", "Homer Simpson"],
+<<<<<<< HEAD
       12: ["I never wanted to kill myself over anything major. It’s always the little things that do me in.", "Bill Burr"],
+=======
+      12: ["I’m like that guy who single-handedly built the rocket & flew to the moon. What was his name? Apollo Creed?", "Unknown"],
+>>>>>>> d2922d62c0e1f0ec9c7bab4cdbe15df88a818360
       13: ["I love my dog. I hate bankers. I have issues with women. In my head, I’m a great guy.", "Bill Burr"],
       14: ["My eyes! The googles do nothing!", "Radioactive Man"],
       15: ["Inflammable means flammable?  What a country.", "Dr. Nick"],
@@ -35,7 +39,7 @@ function startPage(){
       26: ["What she gon' do?", "Gaps Martin"],
       27: ["Wisdom without knowledge is like a spoon without soup.", "Anuj P."],
       28: ["Poo-tee-weet.", "Fritz T."],
-      29: ["MMMMMMM...sacrilicious.", "Homer Simpson"],
+      29: ["MMMMMMM ...sacrilicious.", "Homer Simpson"],
       30: ["If you want him to live, you should roll him over to his stomach.  Remember, IF...", "Dr. Hibbert"],
       31: ["I told my dad about a dream I had and asked what it meant, he said 'it means you were sleeping'.", "Steven Wright"],
       32: ["Hell is other people.", "Jean-Paul Sarte"],
@@ -86,7 +90,12 @@ function startPage(){
       77: ["The sea was angry that day my friends, like an old man trying to send back soup in a deli.", "George Costanza"],
       78: ["SERENITY NOW!", 'Frank Costanza'],
       79: ["That's gold, Jerry.  GOLD!", "Kenny Bania"],
-      80: ["There is always some madness in love.  But there is also always some reason in madness.", "Friedrich Nietzsche"]
+      80: ["There is always some madness in love.  But there is also always some reason in madness.", "Friedrich Nietzsche"],
+      81: ["I can assure the police do not take prisoners out of their cells and race them... Anymore.", "Chief Wiggum"],
+      82: ["The chances of finding out what’s really going on in the universe are so remote, the only thing to do is hang the sense of it and keep yourself occupied.", "Douglas Adams"],
+      83: ["Not unnaturally, many elevators imbued with intelligence and precognition became terribly frustrated with the mindless business of going up and down, up and down, experimented briefly with the notion of going sideways, as a sort of existential protest, demanded participation in the decision-making process and finally took to squatting in basements sulking.", "Douglas Adams"],
+      84: ["It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the Universe can be said to be zero. From this it follows that the population of the whole Universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination.", "Douglas Adams"]
+      
       
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
     };
