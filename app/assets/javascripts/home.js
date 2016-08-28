@@ -18,7 +18,7 @@ function startPage(){
       9: ["Me fail english?  That's unpossible.", "Ralph Wiggum"],
       10: ["When she sees you'll do anything she says, she's bound to respect you.", "Milhouse von Houten"],
       11: ["Just because I don't care doesn't mean I don't understand.", "Homer Simpson"],
-      12: ["Don't you ever get tired of being wrong all the time?", "Unknown"],
+      12: ["I never wanted to kill myself over anything major. It’s always the little things that do me in.", "Bill Burr"],
       13: ["I love my dog. I hate bankers. I have issues with women. In my head, I’m a great guy.", "Bill Burr"],
       14: ["My eyes! The googles do nothing!", "Radioactive Man"],
       15: ["Inflammable means flammable?  What a country.", "Dr. Nick"],
@@ -52,7 +52,7 @@ function startPage(){
       43: ["I don't know. I'm not gonna sit here and try and get inside the mind of a dog. I mean, that's God's work. Well, not that I believe in God.", "Rickety Cricket"],
       44: ["I love you, but that hasn't helped at all.", "Unknown"],
       45: ["There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.", "Douglas Adams"],
-      46: ["There was evidence in this room, of excessive consumption of almost every type of drug known to civilized man since 1544 A.D. It could only be explained as a montage.", "Hunter S. Thompson"],
+      46: ["To me this is not yelling. I am not yelling. I'm just passionate about my opinions and I want to tell you all of them before you start talking again.", "Bill Burr"],
       47: ["There he goes. One of God's own prototypes. A high-powered mutant of some kind never even considered for mass production. Too weird to live, and too rare to die.", "Raoul Duke"],
       48: ["Strange memories on this nervous night in Las Vegas. Has it been five years? Six? It seems like a lifetime, the kind of peak that never comes again. San Francisco in the middle sixties was a very special time and place to be a part of. But no explanation, no mix of words or music or memories can touch that sense of knowing that you were there and alive in that corner of time in the world. Whatever it meant.", "Raoul Duke"],
       49: ["With a bit of luck, his life was ruined forever. Always thinking that just behind some narrow door in all of his favorite bars, men in red woolen shirts are getting incredible kicks from things he'll never know.", "Raoul Duke"],
@@ -82,7 +82,11 @@ function startPage(){
       73: ["People make life so much worse than it has to be.", "Larry David"],
       74: ["A date is an experience you have with another person that makes you appreciate being alone.", "Larry David"],
       75: ["Welcome, newcomers. The tradition of Festivus begins with the airing of grievances. I got a lot of problems with you people! And now you're gonna hear about it!", "Frank Costanza"],
-      76: ["It's like those hip musicains and their complicated shoes.", "George Costanza"]
+      76: ["It's like those hip musicains and their complicated shoes.", "George Costanza"],
+      77: ["The sea was angry that day my friends, like an old man trying to send back soup in a deli.", "George Costanza"],
+      78: ["SERENITY NOW!", 'Frank Costanza'],
+      79: ["That's gold, Jerry.  GOLD!", "Kenny Bania"],
+      80: ["There is always some madness in love.  But there is also always some reason in madness.", "Friedrich Nietzsche"]
       
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
     };
