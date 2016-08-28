@@ -18,11 +18,7 @@ function startPage(){
       9: ["Me fail english?  That's unpossible.", "Ralph Wiggum"],
       10: ["When she sees you'll do anything she says, she's bound to respect you.", "Milhouse von Houten"],
       11: ["Just because I don't care doesn't mean I don't understand.", "Homer Simpson"],
-<<<<<<< HEAD
       12: ["I never wanted to kill myself over anything major. It’s always the little things that do me in.", "Bill Burr"],
-=======
-      12: ["I’m like that guy who single-handedly built the rocket & flew to the moon. What was his name? Apollo Creed?", "Unknown"],
->>>>>>> d2922d62c0e1f0ec9c7bab4cdbe15df88a818360
       13: ["I love my dog. I hate bankers. I have issues with women. In my head, I’m a great guy.", "Bill Burr"],
       14: ["My eyes! The googles do nothing!", "Radioactive Man"],
       15: ["Inflammable means flammable?  What a country.", "Dr. Nick"],
