@@ -1,6 +1,6 @@
 
 function startPage(){
-  
+
 
 
   function randomQuote() {
@@ -90,31 +90,32 @@ function startPage(){
       81: ["I can assure the police do not take prisoners out of their cells and race them... Anymore.", "Chief Wiggum"],
       82: ["The chances of finding out what’s really going on in the universe are so remote, the only thing to do is hang the sense of it and keep yourself occupied.", "Douglas Adams"],
       83: ["Not unnaturally, many elevators imbued with intelligence and precognition became terribly frustrated with the mindless business of going up and down, up and down, experimented briefly with the notion of going sideways, as a sort of existential protest, demanded participation in the decision-making process and finally took to squatting in basements sulking.", "Douglas Adams"],
-      84: ["It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the Universe can be said to be zero. From this it follows that the population of the whole Universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination.", "Douglas Adams"]
-      
-      
+      84: ["It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the Universe can be said to be zero. From this it follows that the population of the whole Universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination.", "Douglas Adams"],
+      85: ["George, this is a little too much for me. Escaped convicts, fugitive sex... I've got a cockfight to focus on.", "Jerry Seinfeld"]
+
+
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
     };
-    
+
     var randomNum = Math.floor((Math.random() * (Object.keys(quotesHash).length)));
 
     var quoteQuote = quotesHash[randomNum][0];
     var quoteAuthor = quotesHash[randomNum][1];
     quote = '"' + quoteQuote + '"' + ' - ' + quoteAuthor;
-  
+
     $(".quote").text(quoteQuote);
     $(".author").text(quoteAuthor);
-    
-    
+
+
     if (quote.length <= 150){
        $("#twitter").show();
        $('.tweet').attr('href', 'https://twitter.com/intent/tweet/?text=' + quote);
     } else {
       $("#twitter").css("display", "none");
     }
-   
+
   };
-    
+
     $("#newquote").on("click", function(){
       randomQuote();
     });
@@ -124,4 +125,3 @@ function startPage(){
 
 $(document).ready(startPage);
 $(document).on('page:load', startPage);
-
