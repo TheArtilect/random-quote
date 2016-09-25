@@ -8,9 +8,21 @@
 
 body, #all {
   background-color: #000019;
+  margin-top: 5vh;
 }
 
-h1, p {
+#port{
+  color: orange;
+
+}
+
+#by {
+  color: white;
+}
+
+
+
+h1 {
   margin-top: 40px;
   font-family: "Times New Roman";
   color: white;
@@ -26,7 +38,8 @@ h1 {
 }
 
 p {
-  font-size: 15px;
+  font-size: 16px;
+  color: white;
 }
 
 .quotebox {
@@ -44,7 +57,7 @@ p {
 
 .jumbotron {
   width: 30%;
-  margin-top: 15px;
+  margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
