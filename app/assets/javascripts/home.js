@@ -93,7 +93,8 @@ function startPage(){
       84: ["It is known that there are an infinite number of worlds, simply because there is an infinite amount of space for them to be in. However, not every one of them is inhabited. Therefore, there must be a finite number of inhabited worlds. Any finite number divided by infinity is as near to nothing as makes no odds, so the average population of all the planets in the Universe can be said to be zero. From this it follows that the population of the whole Universe is also zero, and that any people you may meet from time to time are merely the products of a deranged imagination.", "Douglas Adams"],
       85: ["George, this is a little too much for me. Escaped convicts, fugitive sex... I've got a cockfight to focus on.", "Jerry Seinfeld"],
       86: ["It's the kung pao!  Geoge likes his chicken spicy!!", "George Costanza"],
-      87: ["Isosceles.  You know, I love the name Isosceles.  If I had a kid, I would name him Isosceles.  Isosceles Kramer.", "Cosmo Kramer"]
+      87: ["Isosceles.  You know, I love the name Isosceles.  If I had a kid, I would name him Isosceles.  Isosceles Kramer.", "Cosmo Kramer"],
+      88: ["Serenity now, Insanity Later.", "Lloyd Braun"]
 
 
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
