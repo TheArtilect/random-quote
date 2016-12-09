@@ -96,7 +96,9 @@ function startPage(){
       87: ["Isosceles.  You know, I love the name Isosceles.  If I had a kid, I would name him Isosceles.  Isosceles Kramer.", "Cosmo Kramer"],
       88: ["Serenity now, Insanity Later.", "Lloyd Braun"],
       89: ["Why does love got to be so sad?", "Eric Clapton"],
-      90: ["Just like Sly, You've got to take a stand!", "Eric Clapton"]
+      90: ["Just like Sly, You've got to take a stand!", "Eric Clapton"],
+      91: ["Why don't you make like a tree and get out of here", "Biff Tannen"],
+      92: ['If some little girl with a bruise under her eye comesaround saying this is her dog, it is.  This dog is stolen.', 'Roger, the alien']
 
 
       // 22: ["lsdhflsdh flsd hflsdhf lsdhfls dfhlsd fhlsdhf lsdhfls dhfls hdflshdfls dhfls hdflshdfl shdfl shdlf hsdlfhsdlfhsldkfh sldkhf sldfhsdf", 'hsdofhlsdfhlsdkhflsdhflsdf']
